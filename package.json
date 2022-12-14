@@ -73,7 +73,7 @@
   },
   "dependencies": {
     "@antv/component": "*",
-    "@antv/g2": "4.1.32",
+    "@antv/g2": "https://github.com/vishalnurseio/G2.git",
     "@antv/g2plot": "2.3.39",
     "@antv/util": "2.0.17",
     "@babel/plugin-transform-modules-commonjs": "^7.12.1",
